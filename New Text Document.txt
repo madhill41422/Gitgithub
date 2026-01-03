@@ -1,0 +1,79 @@
+Create check list
+
+1.Top 1% - Best Devops Engineer
+  *Linux               (Completed)
+  *Networking          (Completed)
+  *Git & GitHub
+  *YAML
+  *Docker
+  *Kubernetes
+  *GitHub Actions(CI/CD)
+  *Argo CD(GitOps)
+  *Ansible Automation
+  *Linux → Networking → Git → YAML → Docker → Kubernetes → CI/CD → GitOps → Automation
+   
+  *YT channels i followed - 
+    0.All Videos of Abhishek Veeramala(For Better Understanding)
+
+    1.Linux - Vamshi Bhavani(https://youtu.be/qjlwbS8SGEA?si=VPVLYoUv_eIZtB1M)
+             Kunal Kushwaha(https://youtu.be/iwolPf6kN-k?si=Y1VqgPIhJcXUA-he)
+
+    2.Networking - Kunal Kushwaha(https://youtu.be/IPvYjXCsTg8?si=ZIIkqENZ3yFZFetD)
+                  Abhishek Veramala(https://youtu.be/iSOfkw_YyOU?si=u1vT0AQWQoKKk9Do)
+   
+    3.Git & GitHub - Kunal Kushwaha(https://youtu.be/apGV9Kg7ics?si=K1tRn5MK3W1AvVsc)
+
+  *Key Points to be Done
+    1.Projects
+    2.Certificates
+    3.Exams in websites on every Topic
+    4.Watch Interviews of Devops Engineers in YT
+
+  *Resources
+    1.Udemy
+    2.Great Learning
+    3.Bootcamp(Kunal YT)
+    4.Infytq (free test)
+    5.Google pdfs on every skill
+    6.Relevel Tests (free)
+    7.Study to night(free test Websites)
+    
+   
+
+2.Wake up at 6 or 7 clock
+  *Do jogging for 1hr
+  *wake up do meditation for 15min
+  *Wake up read a book for 30min
+
+
+3.Improve Communication(English)
+  *Now iam at 7/10. need to be 10/10 this year
+  *Camera record for 30min a day
+  *Mirror talks for 10min a day
+  *Book reading for 30min a day
+
+
+4.Typing improvement
+  *Need to improve Typing fastest like cheethah - Example("the quick brown fox jumped over the lazy dog - Text Practice")
+
+
+5.Money Management
+ *PF-25k
+
+
+6.Job Applys
+  *Naukri Resume Update
+  *
+  *
+  *
+  *
+  * 
+  *  
+
+
+
+7.Get things to Do
+
+Order a Bunch of Books
+check shirts looks good on me
+Chales Boots
